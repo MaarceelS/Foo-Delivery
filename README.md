@@ -1,24 +1,30 @@
-# 🍔 Food Delivery - Treinamento em HTML e CSS Básico
+# 🍔 Food Delivery - Treinamento com HTML e CSS
 
-Este repositório contém o projeto **Food Delivery**, criado com o objetivo de praticar e fixar os fundamentos de HTML e CSS. O foco está em aprender a estruturar páginas web, aplicar estilos básicos e entender como os elementos se comportam na tela.
+![Preview do projeto](https://i.imgur.com/SbffU6J.png)
+
+Este repositório apresenta o **Food Delivery**, um projeto de estudo focado em construção de interfaces visuais utilizando HTML e CSS. O layout foi cuidadosamente desenvolvido para simular a interface de um serviço de entrega de alimentos, com base em um modelo obtido no Figma.
+
+> 🎨 **O design foi baseado em um protótipo no Figma**, permitindo praticar a interpretação e a aplicação de layouts reais na codificação.
+
+## 🧠 Conceitos aplicados
+
+- Estrutura semântica em HTML  
+- Estilização com CSS puro  
+- Uso de **fontes personalizadas** com `@import` (Poppins)  
+- Construção de **layouts com Flexbox**  
+- Estilo visual focado na interface de um site de entrega de alimentos, com imagens, menus e botões customizados  
+- **Search bar** com design moderno e sombra sutil  
+- **Cart icon** com número de itens dinâmico (indicador de quantidade)  
+- Layout fluído com **cores suaves** e fontes legíveis, buscando criar uma experiência agradável ao usuário
 
 > ⚠️ **Este projeto não possui responsividade.** O objetivo é dominar o HTML e o CSS estático antes de avançar para técnicas de design responsivo.
 
-## 📚 O que foi praticado
+## 📚 Próximos estudos
 
-- Estrutura básica de um documento HTML  
-- Uso de tags semânticas (`header`, `main`, `footer`, etc.)  
-- Estilização com CSS (cores, fontes, margens, paddings, etc.)  
-- Organização de conteúdo com listas, tabelas, imagens e links  
-- Layout simples utilizando `display: flex`, `justify-content`, e `flex-direction`  
+- Responsividade com media queries  
+- Interatividade com JavaScript (ex: filtros, interação com o carrinho de compras, animações)
 
-## 🚀 Próximos passos
+## 🔍 Visualização
 
-- Aprender sobre media queries e design responsivo  
-- Utilizar Flexbox e Grid Layout  
-- Aprender interatividade com JavaScript  
-
-## 🛠 Como visualizar
-
-Você pode visualizar o projeto diretamente em seu navegador acessando o link abaixo:  
+Você pode acessar a versão online do projeto clicando no link abaixo:  
 👉 [**Acessar Food Delivery**](https://foo-delivery-tau.vercel.app/)
