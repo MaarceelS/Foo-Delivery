@@ -21,4 +21,4 @@ Este repositório contém o projeto **Food Delivery**, criado com o objetivo de 
 ## 🛠 Como visualizar
 
 Você pode visualizar o projeto diretamente em seu navegador acessando o link abaixo:  
-👉 [**Acessar Food Delivery**](https://seu-link-aqui.com)
+👉 [**Acessar Food Delivery**](https://foo-delivery-tau.vercel.app/)
