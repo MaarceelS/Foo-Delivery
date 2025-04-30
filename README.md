@@ -1,26 +1,24 @@
-🍔 Food Delivery - Treinamento em HTML e CSS Básico
-Este repositório contém o projeto Food Delivery, criado com o objetivo de praticar e fixar os fundamentos de HTML e CSS. O foco está em aprender a estruturar páginas web, aplicar estilos básicos e entender como os elementos se comportam na tela.
+# 🍔 Food Delivery - Treinamento em HTML e CSS Básico
 
-⚠️ Este projeto não possui responsividade. O objetivo é dominar o HTML e o CSS estático antes de avançar para técnicas de design responsivo.
+Este repositório contém o projeto **Food Delivery**, criado com o objetivo de praticar e fixar os fundamentos de HTML e CSS. O foco está em aprender a estruturar páginas web, aplicar estilos básicos e entender como os elementos se comportam na tela.
 
-📚 O que foi praticado
-Estrutura básica de um documento HTML
+> ⚠️ **Este projeto não possui responsividade.** O objetivo é dominar o HTML e o CSS estático antes de avançar para técnicas de design responsivo.
 
-Uso de tags semânticas (header, main, footer, etc.)
+## 📚 O que foi praticado
 
-Estilização com CSS (cores, fontes, margens, paddings, etc.)
+- Estrutura básica de um documento HTML  
+- Uso de tags semânticas (`header`, `main`, `footer`, etc.)  
+- Estilização com CSS (cores, fontes, margens, paddings, etc.)  
+- Organização de conteúdo com listas, tabelas, imagens e links  
+- Layout simples utilizando `display: flex`, `justify-content`, e `flex-direction`  
 
-Organização de conteúdo com listas, tabelas, imagens e links
+## 🚀 Próximos passos
 
-Layout simples utilizando display: block, inline, e inline-block
+- Aprender sobre media queries e design responsivo  
+- Utilizar Flexbox e Grid Layout  
+- Aprender interatividade com JavaScript  
 
-🚀 Próximos passos
-Aprender sobre media queries e design responsivo
+## 🛠 Como visualizar
 
-Utilizar Flexbox e Grid Layout
-
-Adicionar interatividade com JavaScript
-
-🛠 Como visualizar
-Você pode visualizar o projeto diretamente em seu navegador acessando o link abaixo:
-👉 Acessar Food Delivery
+Você pode visualizar o projeto diretamente em seu navegador acessando o link abaixo:  
+👉 [**Acessar Food Delivery**](https://seu-link-aqui.com)
