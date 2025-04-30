@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Delivery</title>
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+<body>
+    <header class="menu">
+        <!-- Logo and title -->
+        <div class="menu__group1">
+            <div class="logo">
+                <img src="./assets/chef-hat.png" alt="Icon Chef Hat" class="logo__img">
+                <h2 class="logo__text">Foo</h2>
+            </div>
+        </div>    
+        <!-- Main navigation -->
+        <div class="menu__group2">
+            <nav class="nav-menu" aria-label="Main navigation">
+                <a href="" class="nav-menu__text">Home</a>
+                <a href="" class="nav-menu__text">Menu</a>
+                <a href="" class="nav-menu__text">Contact</a>
+                <a href="" class="nav-menu__text">Shop</a>
+            </nav>
+        </div>
+        <!-- Search bar -->
+         <div class="menu__group3">
+            <div class="search-bar">                     
+                    <form action="/buscar" method="GET" role="search">
+                        <img src="./assets/search.png" alt="Icone search" class="search-bar__search">
+                        <input type="search" class="search-input" name="q" placeholder="Search">
+                    </form>
+                
+                <!-- Shopping cart -->
+                <div class="shopping-cart"> 
+                    <img src="./assets/shopping_cart.png" alt="shopping cart" class="shopping-cart__img">
+                    <span class="shopping-cart__number">2</span>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="introduction">
+        <section class="introduction__main">
+            <!-- Main title -->
+            <section class="introduction__title">
+                <h1 class="introduction__title__contrast">Fast</h1>
+                <h1 class="introduction__title__title">Food <br/> Delivery</h1>
+                <img src="./assets/arrow-main.png" alt="Arrow" class="introduction__title__arrow">
+            </section>
+            <!-- Paragraph -->
+            <p class="introduction__paragraph">Sed ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium</p>
+            <!-- Buttons -->
+            <div class="buttons">
+                <a href="" class="buttons__ordem">Ordem Now</a>
+                <a href="" class="buttons__watch"> <img src="./assets/polygon.png" alt="polygon">Watch Video</a>
+            </div>
+            <div class="info-reviews">
+                <!-- Reviews -->
+                <div class="info-reviews__stars">
+                    <img src="./assets/star.png" alt="" class="info-reviews__img">
+                    <img src="./assets/star.png" alt="" class="info-reviews__img">
+                    <img src="./assets/star.png" alt="" class="info-reviews__img">
+                    <img src="./assets/star.png" alt="" class="info-reviews__img">
+                    <img src="./assets/star.png" alt="" class="info-reviews__img">
+                </div>
+                <div class="info-reviews__texts">
+                    <h3 class="info-reviews__h3">5 star rating</h3>
+                    <p class="info-reviews_p">based on 1788 reviews</p>
+                </div>
+            </div>
+        </section>
+        <img src="./assets/foods.png" alt="" class="introduction__img__foods">
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>
